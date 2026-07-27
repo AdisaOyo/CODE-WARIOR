@@ -43,3 +43,4 @@ Welcome! This repository is automatically updated with my solutions to various a
 | [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a) | 6-kyu | python | [Solution](codewars/python/6-kyu/exes-and-ohs.py) | 7/27/2026 |
 | [Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f) | 6-kyu | python | [Solution](codewars/python/6-kyu/friend-or-foe.py) | 7/27/2026 |
 | [Basic variable assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025) | 6-kyu | python | [Solution](codewars/python/6-kyu/basic-variable-assignment.py) | 7/27/2026 |
+| [Area or Perimeter](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) | 6-kyu | python | [Solution](codewars/python/6-kyu/area-or-perimeter.py) | 7/27/2026 |
