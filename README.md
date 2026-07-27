@@ -17,3 +17,4 @@ Welcome! This repository is automatically updated with my solutions to various a
 | [Connect 4](https://www.codewars.com/kata/586c0909c1923fdb89002031) | 6-kyu | python | [Solution](codewars/python/6-kyu/connect-4.py) | 7/27/2026 |
 | [Find the calculation type](https://www.codewars.com/kata/5aca48db188ab3558e0030fa) | 6-kyu | python | [Solution](codewars/python/6-kyu/find-the-calculation-type.py) | 7/27/2026 |
 | [Draw stairs](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5) | 6-kyu | python | [Solution](codewars/python/6-kyu/draw-stairs.py) | 7/27/2026 |
+| [Merging sorted integer arrays (without duplicates)](https://www.codewars.com/kata/573f5c61e7752709df0005d2) | 6-kyu | python | [Solution](codewars/python/6-kyu/merging-sorted-integer-arrays-without-duplicates.py) | 7/27/2026 |
