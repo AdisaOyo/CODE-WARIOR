@@ -36,3 +36,4 @@ Welcome! This repository is automatically updated with my solutions to various a
 | [T.T.T.17: Split odd and even](https://www.codewars.com/kata/57a2ab1abb994466910003af) | 6-kyu | python | [Solution](codewars/python/6-kyu/t-t-t-17-split-odd-and-even.py) | 7/27/2026 |
 | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) | 6-kyu | python | [Solution](codewars/python/6-kyu/array-diff.py) | 7/27/2026 |
 | [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | 6-kyu | python | [Solution](codewars/python/6-kyu/descending-order.py) | 7/27/2026 |
+| [Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | 6-kyu | python | [Solution](codewars/python/6-kyu/invert-values.py) | 7/27/2026 |
