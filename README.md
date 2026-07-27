@@ -30,3 +30,4 @@ Welcome! This repository is automatically updated with my solutions to various a
 | [Thinkful - Number Drills: Blue and red marbles](https://www.codewars.com/kata/5862f663b4e9d6f12b00003b) | 6-kyu | python | [Solution](codewars/python/6-kyu/thinkful-number-drills-blue-and-red-marbles.py) | 7/27/2026 |
 | [How good are you really?](https://www.codewars.com/kata/5601409514fc93442500010b) | 6-kyu | python | [Solution](codewars/python/6-kyu/how-good-are-you-really.py) | 7/27/2026 |
 | [Sort and Star](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e) | 6-kyu | python | [Solution](codewars/python/6-kyu/sort-and-star.py) | 7/27/2026 |
+| [Hex to Decimal](https://www.codewars.com/kata/57a4d500e298a7952100035d) | 6-kyu | python | [Solution](codewars/python/6-kyu/hex-to-decimal.py) | 7/27/2026 |
