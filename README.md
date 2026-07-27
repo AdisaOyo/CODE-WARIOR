@@ -9,3 +9,4 @@ Welcome! This repository is automatically updated with my solutions to various a
 | ⚡ Problem | 🥋 Difficulty | 🛠️ Language | 📜 Solution | 📅 Date |
 | :--- | :--- | :--- | :--- | :--- |
 | [Twice as old](https://www.codewars.com/kata/5b853229cfde412a470000d0) | 6-kyu | python | [Solution](codewars/python/6-kyu/twice-as-old.py) | 7/27/2026 |
+| [Who ate the cookie?](https://www.codewars.com/kata/55a996e0e8520afab9000055) | 6-kyu | python | [Solution](codewars/python/6-kyu/who-ate-the-cookie.py) | 7/27/2026 |
