@@ -27,3 +27,4 @@ Welcome! This repository is automatically updated with my solutions to various a
 | [Was the package received before it was sent? (Simplified)](https://www.codewars.com/kata/6707688c0f597511f6649270) | 6-kyu | python | [Solution](codewars/python/6-kyu/was-the-package-received-before-it-was-sent-simplified.py) | 7/27/2026 |
 | [Enumerable Magic #25 - Take the First N Elements](https://www.codewars.com/kata/545afd0761aa4c3055001386) | 6-kyu | python | [Solution](codewars/python/6-kyu/enumerable-magic-25-take-the-first-n-elements.py) | 7/27/2026 |
 | [Cat years, Dog years](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) | 6-kyu | python | [Solution](codewars/python/6-kyu/cat-years-dog-years.py) | 7/27/2026 |
+| [Thinkful - Number Drills: Blue and red marbles](https://www.codewars.com/kata/5862f663b4e9d6f12b00003b) | 6-kyu | python | [Solution](codewars/python/6-kyu/thinkful-number-drills-blue-and-red-marbles.py) | 7/27/2026 |
