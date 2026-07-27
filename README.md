@@ -40,3 +40,4 @@ Welcome! This repository is automatically updated with my solutions to various a
 | [The Wide-Mouthed frog!](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89) | 6-kyu | python | [Solution](codewars/python/6-kyu/the-wide-mouthed-frog.py) | 7/27/2026 |
 | [Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051) | 6-kyu | python | [Solution](codewars/python/6-kyu/convert-number-to-reversed-array-of-digits.py) | 7/27/2026 |
 | [Be Concise I - The Ternary Operator](https://www.codewars.com/kata/56f3f6a82010832b02000f38) | 6-kyu | python | [Solution](codewars/python/6-kyu/be-concise-i-the-ternary-operator.py) | 7/27/2026 |
+| [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a) | 6-kyu | python | [Solution](codewars/python/6-kyu/exes-and-ohs.py) | 7/27/2026 |
