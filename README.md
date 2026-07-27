@@ -38,3 +38,4 @@ Welcome! This repository is automatically updated with my solutions to various a
 | [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | 6-kyu | python | [Solution](codewars/python/6-kyu/descending-order.py) | 7/27/2026 |
 | [Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | 6-kyu | python | [Solution](codewars/python/6-kyu/invert-values.py) | 7/27/2026 |
 | [The Wide-Mouthed frog!](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89) | 6-kyu | python | [Solution](codewars/python/6-kyu/the-wide-mouthed-frog.py) | 7/27/2026 |
+| [Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051) | 6-kyu | python | [Solution](codewars/python/6-kyu/convert-number-to-reversed-array-of-digits.py) | 7/27/2026 |
