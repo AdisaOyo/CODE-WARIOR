@@ -23,3 +23,4 @@ Welcome! This repository is automatically updated with my solutions to various a
 | [Switch it Up!](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) | 6-kyu | python | [Solution](codewars/python/6-kyu/switch-it-up.py) | 7/27/2026 |
 | [Music 1: How Many Quarter Notes?](https://www.codewars.com/kata/69c2f04a1294ffc95c526d9e) | 6-kyu | python | [Solution](codewars/python/6-kyu/music-1-how-many-quarter-notes.py) | 7/27/2026 |
 | [Filter out the geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7) | 6-kyu | python | [Solution](codewars/python/6-kyu/filter-out-the-geese.py) | 7/27/2026 |
+| [Quarter of the year](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af) | 6-kyu | python | [Solution](codewars/python/6-kyu/quarter-of-the-year.py) | 7/27/2026 |
