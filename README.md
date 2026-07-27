@@ -12,3 +12,4 @@ Welcome! This repository is automatically updated with my solutions to various a
 | [Who ate the cookie?](https://www.codewars.com/kata/55a996e0e8520afab9000055) | 6-kyu | python | [Solution](codewars/python/6-kyu/who-ate-the-cookie.py) | 7/27/2026 |
 | [Grasshopper - Personalized Message](https://www.codewars.com/kata/5772da22b89313a4d50012f7) | 6-kyu | python | [Solution](codewars/python/6-kyu/grasshopper-personalized-message.py) | 7/27/2026 |
 | [Do I get a bonus?](https://www.codewars.com/kata/56f6ad906b88de513f000d96) | 6-kyu | python | [Solution](codewars/python/6-kyu/do-i-get-a-bonus.py) | 7/27/2026 |
+| [Crash Override](https://www.codewars.com/kata/578c1e2edaa01a9a02000b7f) | 6-kyu | python | [Solution](codewars/python/6-kyu/crash-override.py) | 7/27/2026 |
