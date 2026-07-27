@@ -25,3 +25,4 @@ Welcome! This repository is automatically updated with my solutions to various a
 | [Filter out the geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7) | 6-kyu | python | [Solution](codewars/python/6-kyu/filter-out-the-geese.py) | 7/27/2026 |
 | [Quarter of the year](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af) | 6-kyu | python | [Solution](codewars/python/6-kyu/quarter-of-the-year.py) | 7/27/2026 |
 | [Was the package received before it was sent? (Simplified)](https://www.codewars.com/kata/6707688c0f597511f6649270) | 6-kyu | python | [Solution](codewars/python/6-kyu/was-the-package-received-before-it-was-sent-simplified.py) | 7/27/2026 |
+| [Enumerable Magic #25 - Take the First N Elements](https://www.codewars.com/kata/545afd0761aa4c3055001386) | 6-kyu | python | [Solution](codewars/python/6-kyu/enumerable-magic-25-take-the-first-n-elements.py) | 7/27/2026 |
