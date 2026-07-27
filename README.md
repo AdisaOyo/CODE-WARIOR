@@ -15,3 +15,4 @@ Welcome! This repository is automatically updated with my solutions to various a
 | [Crash Override](https://www.codewars.com/kata/578c1e2edaa01a9a02000b7f) | 6-kyu | python | [Solution](codewars/python/6-kyu/crash-override.py) | 7/27/2026 |
 | [Semi-Optional](https://www.codewars.com/kata/521cd52e790405a74800032c) | 6-kyu | python | [Solution](codewars/python/6-kyu/semi-optional.py) | 7/27/2026 |
 | [Connect 4](https://www.codewars.com/kata/586c0909c1923fdb89002031) | 6-kyu | python | [Solution](codewars/python/6-kyu/connect-4.py) | 7/27/2026 |
+| [Find the calculation type](https://www.codewars.com/kata/5aca48db188ab3558e0030fa) | 6-kyu | python | [Solution](codewars/python/6-kyu/find-the-calculation-type.py) | 7/27/2026 |
