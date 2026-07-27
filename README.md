@@ -32,3 +32,4 @@ Welcome! This repository is automatically updated with my solutions to various a
 | [Sort and Star](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e) | 6-kyu | python | [Solution](codewars/python/6-kyu/sort-and-star.py) | 7/27/2026 |
 | [Hex to Decimal](https://www.codewars.com/kata/57a4d500e298a7952100035d) | 6-kyu | python | [Solution](codewars/python/6-kyu/hex-to-decimal.py) | 7/27/2026 |
 | [Geometry Basics: Distance between points in 2D](https://www.codewars.com/kata/58dced7b702b805b200000be) | 6-kyu | python | [Solution](codewars/python/6-kyu/geometry-basics-distance-between-points-in-2d.py) | 7/27/2026 |
+| [Calculate BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb) | 6-kyu | python | [Solution](codewars/python/6-kyu/calculate-bmi.py) | 7/27/2026 |
